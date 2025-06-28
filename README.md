@@ -1,9 +1,9 @@
 ### Hi, I'm Felipe Emidio. If you check out my code, don't forget to send me a feedback.
 
 - 🔭 I’m a fullstack developer, with more focus on frontend.
-- 🌱 Learning mobile development with Flutter
+- 😄 Flutter is my specialty
+- 🌱 Learning Go
 - 🐱 Has 2 cats 
-- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/felipeemidio">
