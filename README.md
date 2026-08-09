@@ -5,11 +5,7 @@
 - 🌱 Learning Go
 - 🐱 Has 2 cats 
 
-<div align="center">
-  <a href="https://github.com/felipeemidio">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeemidio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeemidio&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Metrics](./assets/metrics.svg)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
